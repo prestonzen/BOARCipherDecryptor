@@ -153,7 +153,7 @@ def main():
 
     print(''.join(decodedText))
 
-    restart = input('Type yes to exit')
+    restart = input('Type yes to exit or press enter to continue decrypting')
     if restart == "yes" or restart == "Yes" or restart == "y" or restart == "y":
         exit()
     else:
