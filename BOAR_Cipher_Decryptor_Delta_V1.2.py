@@ -2,6 +2,7 @@
 Written by Preston Zen
 https://prestonzen.com
 https://github.com/prestonzen
+Designed for Python 3.8
 """
 
 def main():
